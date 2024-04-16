@@ -8,8 +8,6 @@ import { InputNumberModule } from 'primeng/inputnumber';
 import { DropdownModule } from 'primeng/dropdown';
 import { InputTextareaModule } from 'primeng/inputtextarea';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-
-
 import { AppComponent } from './app.component';
 import { ReactiveFormsModule } from '@angular/forms';
 
