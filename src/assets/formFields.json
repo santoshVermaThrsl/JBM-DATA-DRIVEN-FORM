@@ -6,7 +6,7 @@
       "value": "",
       "type": "text",
       "validators": {
-        "required": false
+        "required": true
       }
     },
     {
@@ -43,7 +43,7 @@
       "value": "",
       "type": "textArea",
       "validators": {
-        "required": false
+        "required": true
       }
     }
   ]
